@@ -5,9 +5,8 @@
   <a href="#-license">License</a>
 </p>
 
-<p align="center">
-  ![Group 1](https://user-images.githubusercontent.com/119366384/220349056-134e2841-f3e2-4c0d-ba0e-0e2de1e6387e.png)
-</p>
+![Group 1](https://user-images.githubusercontent.com/119366384/220349056-134e2841-f3e2-4c0d-ba0e-0e2de1e6387e.png)
+
 
 ## 🚀 Technologies
 
